@@ -5,3 +5,4 @@ Hackerrank [30 days of code](https://www.hackerrank.com/domains/tutorials/30-day
 - Day 0 - Hello, World. (easy)
 - Day 1 - Data Types (easy)
 - Day 2 - Operators (easy)
+- Day 3 - Intro to Conditional Statements (easy)
