@@ -7,3 +7,4 @@ Hackerrank [30 days of code](https://www.hackerrank.com/domains/tutorials/30-day
 - Day 2 - Operators (easy)
 - Day 3 - Intro to Conditional Statements (easy)
 - Day 4 - Class vs. Instance (easy)
+- Day 5 - Loops (easy)
