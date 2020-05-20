@@ -10,3 +10,4 @@ Hackerrank [30 days of code](https://www.hackerrank.com/domains/tutorials/30-day
 - Day 5 - Loops (easy)
 - Day 6 - Let's Review (easy)
 - Day 7 - Arrays (easy)
+- Day 7 - Dictionaries and Maps (easy)
