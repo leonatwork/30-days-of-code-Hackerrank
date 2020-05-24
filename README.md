@@ -14,4 +14,5 @@ Hackerrank [30 days of code](https://www.hackerrank.com/domains/tutorials/30-day
 - Day 9 - Recursion 3 (easy)
 - Day 10 - Binary Numbers (easy)
 - Day 11 - 2D Arrays (easy)
+- Day 12 - Inheritance (easy)
 
