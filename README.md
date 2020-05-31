@@ -21,4 +21,5 @@ Hackerrank [30 days of code](https://www.hackerrank.com/domains/tutorials/30-day
 - Day 16 - Exceptions - String to Integer (easy)
 - Day 17 - More Exceptions (easy)
 - Day 18 - Queues and Stacks (easy)
+- Day 19 - Interfaces (easy)
 
