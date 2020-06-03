@@ -24,4 +24,5 @@ Hackerrank [30 days of code](https://www.hackerrank.com/domains/tutorials/30-day
 - Day 19 - Interfaces (easy)
 - Day 20 - Sorting (easy)
 - Day 21 - Generics (easy)
+- Day 22 - Binary Search Trees (easy)
 
