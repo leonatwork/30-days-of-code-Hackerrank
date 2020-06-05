@@ -26,4 +26,6 @@ Hackerrank [30 days of code](https://www.hackerrank.com/domains/tutorials/30-day
 - Day 21 - Generics (easy)
 - Day 22 - Binary Search Trees (easy)
 - Day 23 - BST Level-Order Traversal (easy)
+- Day 24 - More Linked Lists (easy)
+
 
