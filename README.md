@@ -28,4 +28,5 @@ Hackerrank [30 days of code](https://www.hackerrank.com/domains/tutorials/30-day
 - Day 23 - BST Level-Order Traversal (easy)
 - Day 24 - More Linked Lists (easy)
 - Day 25 - Running Time and Complexity (medium)
+- Day 26 - Nested Logic (easy)
 
